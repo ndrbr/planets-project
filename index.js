@@ -1,9 +1,9 @@
-const { parse } = require("csv-parse");
-const fs = require("fs");
+// const { parse } = require("csv-parse");
+// const fs = require("fs");
 
-// import { parse } from "csv-parse";
+import { parse } from "csv-parse";
 // import { createReadStream } from "fs";
-// import * as fs from "fs";
+import * as fs from "fs";
 
 const habitablePlanets = [];
 

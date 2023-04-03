@@ -13,5 +13,5 @@
   "dependencies": {
     "csv-parse": "^5.3.6"
   },
-  "type": "commonjs"
+  "type": "module"
 }
